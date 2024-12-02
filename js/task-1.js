@@ -5,7 +5,7 @@ const customer = {
   orders: ["Burger", "Pizza", "Salad"],
 
   getBalance() {
-    return this.balance;
+    return this.balance; 
   },
   getDiscount() {
     return this.discount;
